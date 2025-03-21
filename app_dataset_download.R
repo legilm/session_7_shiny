@@ -14,6 +14,7 @@ ui <- fluidPage(
   )
 )
 
+
   server <- function(input, output) {
     
     data <- reactive({

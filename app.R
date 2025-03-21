@@ -1,7 +1,6 @@
 library(shiny)
 library(rio)
 
-
 ui <- fluidPage(
   titlePanel("Upload File Example"),
   sidebarLayout(
